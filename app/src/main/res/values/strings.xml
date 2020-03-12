@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FIRSTapp</string>
+    <string name="str">hello</string>
+    <string name="action_settings">Settings</string>
+</resources>
